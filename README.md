@@ -29,7 +29,7 @@ Oyuncular, çeşitli görevleri tamamlayarak ve şifreleri kırarak puan toplar.
 
 1. **Dikkat ve Hafıza Bölümü**:
     - Oyunculara bir resim gösterilir.
-    - Oyuncular, resmin aynı mı farklı mı olduğunu seçer.
+    - Oyuncular,bu resmin önceki resimle aynı mı farklı mı olduğunu seçer.
     - 30 saniye boyunca bu işlem tekrarlanır.
     - Doğru cevaplar +10 puan, yanlış cevaplar -5 puan kazandırır.
     - Bu bölüm tamamlandığında, oyuncu devam butonuna basarak ikinci bölüme geçer.

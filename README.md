@@ -1,44 +1,48 @@
-# Hacker Challenge
+### Hacker Challenge
 
 **Hacker Challenge** adlı oyun, işe alım departmanı için kullanılabilir bir değerlendirme aracı olup, 
 oyuncunun dikkat, hafıza ve hesap yeteneklerini ölçmeyi hedefler. Oyuncular, bir hacker gibi terminale 
-sızmak için belirli soruları çözmek ve engelleri aşmak zorundadır. Oyun, işe alınacak kişinin bilgi işlem
+sızmak için belirli soruları çözmek ve engelleri aşmak zorundadır. Oyun, işe alınacak kişinin bilgi işlem 
 yeteneklerini gerçekçi bir simülasyonla değerlendirmeyi amaçlamaktadır.
 
-## Açıklama
-
-**Hacker Challenge** oyunu, oyuncuların dikkat, hafıza ve hesap yeteneklerini test etmek için tasarlanmıştır.
+### Açıklama
+**Hacker Challenge** oyunu, oyuncuların dikkat, hafıza ve hesap yeteneklerini test etmek için tasarlanmıştır. 
 Oyuncular, çeşitli görevleri tamamlayarak ve şifreleri kırarak puan toplar. Oyun, iki ana bölümden oluşmaktadır:
 
-1. **Dikkat ve Hafıza Testi**: Oyuncular, bir resmin önceki resimle aynı mı farklı mı olduğunu belirlemelidir.
-2. 30 saniye boyunca doğru cevaplar +10 puan, yanlış cevaplar -5 puan olarak hesaplanır.
-3. **Hesap Testi**: Oyuncular, 1 dakika içinde olabildiğince çok matematik sorusunu doğru bir şekilde çözmelidir.
-4.  Doğru cevaplar +10 puan kazandırır. Yanlış cevap durumunda, doğru cevap gösterilir ve bir sonraki soruya geçilir.
+**Dikkat ve Hafıza Testi:** 
+Oyuncular, bir resmin önceki resimle aynı mı farklı mı olduğunu belirlemelidir.
+30 saniye boyunca doğru cevaplar +10 puan, yanlış cevaplar -5 puan olarak hesaplanır.
 
-## Özellikler
+**Hesap Testi:**
+Oyuncular, 1 dakika içinde olabildiğince çok matematik sorusunu doğru bir şekilde çözmelidir.
+Doğru cevaplar +10 puan kazandırır. Yanlış cevap durumunda, doğru cevap gösterilir ve bir sonraki soruya geçilir.
 
-- **Dikkat Testi**: 30 saniye boyunca oyunculara gösterilen resimlerin aynı mı farklı mı olduğunu seçmeleri gerekir.
-- **Hafıza Testi**: Dikkat testi ile birlikte oyuncuların hafızalarını da test eder.
-- **Hesap Testi**: 1 dakika içinde olabildiğince çok matematik sorusu çözülür.
-- **Puanlama Sistemi**: Doğru ve yanlış cevaplara göre puanlama yapılır.
-- **Seviye Geçişi**: İlk seviyeyi tamamlayan oyuncular, ikinci seviyeye geçerek hesap yeteneklerini test eder.
+### Özellikler
 
-## Oynanış
+**Dikkat Testi:** 30 saniye boyunca oyunculara gösterilen resimlerin aynı mı farklı mı olduğunu seçmeleri gerekir.
+**Hafıza Testi:** Dikkat testi ile birlikte oyuncuların hafızalarını da test eder.
+**Hesap Testi:** 1 dakika içinde olabildiğince çok matematik sorusu çözülür.
+**Puanlama Sistemi:** Doğru ve yanlış cevaplara göre puanlama yapılır.
+**Seviye Geçişi:** İlk seviyeyi tamamlayan oyuncular, ikinci seviyeye geçerek hesap yeteneklerini test eder.
 
-**Hacker's Challenge** oyununda, oyuncuların çeşitli aşamaları geçerek puan toplaması gerekmektedir. Oyun iki ana bölümden oluşur:
+### Oynanış
 
-1. **Dikkat ve Hafıza Bölümü**:
-    - Oyunculara bir resim gösterilir.
-    - Oyuncular,bu resmin önceki resimle aynı mı farklı mı olduğunu seçer.
-    - 30 saniye boyunca bu işlem tekrarlanır.
-    - Doğru cevaplar +10 puan, yanlış cevaplar -5 puan kazandırır.
-    - Bu bölüm tamamlandığında, oyuncu devam butonuna basarak ikinci bölüme geçer.
+**Hacker Challenge** oyununda, oyuncuların çeşitli aşamaları geçerek puan toplaması gerekmektedir. Oyun iki ana bölümden oluşur:
 
-2. **Hesap Bölümü**:
-    - 1 dakika boyunca matematik soruları çözülür.
-    - Doğru cevaplar +10 puan kazandırır.
-    - Yanlış cevap durumunda doğru cevap gösterilir ve yeni bir soru gelir.
-    - İki bölümden toplanan puanlar, seviye ekranında gösterilir ve oyun sona erer.
+### Dikkat ve Hafıza Bölümü:
+
+Oyunculara bir resim gösterilir.
+Oyuncular, bu resmin önceki resimle aynı mı farklı mı olduğunu seçer.
+30 saniye boyunca bu işlem tekrarlanır.
+Doğru cevaplar +10 puan, yanlış cevaplar -5 puan kazandırır.
+Bu bölüm tamamlandığında, oyuncu devam butonuna basarak ikinci bölüme geçer.
+
+### Hesap Bölümü:
+
+1 dakika boyunca matematik soruları çözülür.
+Doğru cevaplar +10 puan kazandırır.
+Yanlış cevap durumunda doğru cevap gösterilir ve yeni bir soru gelir.
+İki bölümden toplanan puanlar, seviye ekranında gösterilir ve oyun sona erer.
 
 ### Ekran Görüntüleri
 

@@ -1,4 +1,4 @@
-### Hacker Challenge
+# Hacker Challenge
 
 **Hacker Challenge** adlı oyun, işe alım departmanı için kullanılabilir bir değerlendirme aracı olup, 
 oyuncunun dikkat, hafıza ve hesap yeteneklerini ölçmeyi hedefler. Oyuncular, bir hacker gibi terminale 

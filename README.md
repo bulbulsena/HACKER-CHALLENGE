@@ -47,8 +47,7 @@ Hacker Challenge oyununda, oyuncuların çeşitli aşamaları geçerek puan topl
 
 
 ### Video
-
-[![Proje Tanıtım Videosu id]
+https://www.youtube.com/watch?v=yiVkcpNWhLQ
 
 ## İletişim
 
